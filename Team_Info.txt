@@ -1,5 +1,10 @@
 UniversityID 		Name
 ------------------------
+<<<<<<< HEAD
 2110040126		G.Koushik
 2110040127		B.Krishna Datta
+=======
+2110040127		N.Varshith
+2110040129		B.Krishna Datta
+>>>>>>> 076306f435ea16cb7d5533b91977718c69db38df
 2110040134		R.Loukik Karthikeya
