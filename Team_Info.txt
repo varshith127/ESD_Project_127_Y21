@@ -1,6 +1,5 @@
 UniversityID 		Name
 ------------------------
 2110040127		N.Varshith
-2110040126		G.Koushik
-2110040127		B.Krishna Datta
+2110040129		B.Krishna Datta
 2110040134		R.Loukik Karthikeya
