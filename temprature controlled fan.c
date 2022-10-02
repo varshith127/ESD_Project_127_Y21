@@ -34,7 +34,7 @@ rs=0;
 rw=1;
 while(busy==1)
 {
-en-0;
+en=0;
 en=1;
 }
 return;
@@ -116,13 +116,13 @@ unsigned char i;
 unsigned char value:
 unsigned char x[6]="TEMP";
 unsigned char x1[5]="FAN ON";
-// unsigned char y[12]="SPEED:LEVEL";
-//unsigned char u1[5]="NORM";
+//unsigned char y[12]="SPEED:LEVEL";
+//unsigned char u2[5]="NORM";
 unsigned char u1[7]="FAN OFF";
 unsigned char x[6]="TEMP";
 unsigned char x1[5]="FAN ON";
 // unsigned char y[12]="SPEED:LEVEL";
-//unsigned char u1[5]="NORM";
+//unsigned char u2[5]="NORM";
 unsigned char u1[7]="FAN OFF";
 while(1){
 value=adcread();
