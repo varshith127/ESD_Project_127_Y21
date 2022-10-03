@@ -1,8 +1,8 @@
 
 #include<reg51.h>
 sbit input=P1^4;
-sbit a=P1^5;
-sbit b=P1^6;
+sbit x=P1^5;
+sbit y=P1^6;
 void delay(void);
 int main(void)
 {
